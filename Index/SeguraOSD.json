@@ -13,7 +13,7 @@
         {
             "Name": "OSDCloud: Full Install",
             "Guid": "150fd29e-95e7-4675-8ade-4b675cd6343f",
-            "Description": "This is a full install to ready to deploy",
+            "Description": "This is a how I get OSDCloud setup on a new computer",
             "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/150fd29e-95e7-4675-8ade-4b675cd6343f.ps1"
         }
     ]
