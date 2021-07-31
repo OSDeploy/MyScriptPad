@@ -11,8 +11,8 @@
     ],
     "Scripts": [
         {
-            "Name": "Test Script",
-            "Guid": "0095f14b-8738-4a59-a8a4-a797985deb4e",
+            "Name": "OSDCloud: Full Install",
+            "Guid": "150fd29e-95e7-4675-8ade-4b675cd6343f",
             "Description": "This is a test",
             "Uri": "https://raw.githubusercontent.com/OSDeploy/OSDCloud/main/ScriptPad/PreOS/0095f14b-8738-4a59-a8a4-a797985deb4e.ps1"
         }
