@@ -1,0 +1,20 @@
+{
+    "Settings":[
+        {
+            "Title": "-MyScriptPad OSDeploy",
+            "Version": "21.7.31.1",
+            "Author": "https://twitter.com/SeguraOSD",
+            "Company": "OSDeploy.com",
+            "Path": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/ScriptPad.json",
+            "Help": ""
+        }
+    ],
+    "Scripts": [
+        {
+            "Name": "This is MyScriptPad",
+            "Guid": "92aa62bf-c791-4651-90a5-70219a359e87",
+            "Description": "OSDeploy's MyScriptPad Repository",
+            "Uri": "https://raw.githubusercontent.com/OSDeploy/ScriptPad/main/Scripts/92aa62bf-c791-4651-90a5-70219a359e87.ps1"
+        }
+    ]
+}
