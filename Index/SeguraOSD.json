@@ -1,0 +1,20 @@
+{
+    "Settings":[
+        {
+            "Title": "SeguraOSD ScriptPad",
+            "Version": "21.7.31.1",
+            "Author": "https://twitter.com/SeguraOSD",
+            "Company": "OSDeploy.com",
+            "Path": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Index/SeguraOSD.json",
+            "Help": ""
+        }
+    ],
+    "Scripts": [
+        {
+            "Name": "Test Script",
+            "Guid": "0095f14b-8738-4a59-a8a4-a797985deb4e",
+            "Description": "This is a test",
+            "Uri": "https://raw.githubusercontent.com/OSDeploy/OSDCloud/main/ScriptPad/PreOS/0095f14b-8738-4a59-a8a4-a797985deb4e.ps1"
+        }
+    ]
+}
