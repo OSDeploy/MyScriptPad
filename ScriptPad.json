@@ -11,15 +11,16 @@
     ],
     "Scripts": [
         {
-            "Name": "This is MyScriptPad",
-            "Guid": "92aa62bf-c791-4651-90a5-70219a359e87",
-            "Description": "OSDeploy's MyScriptPad Repository",
+            "Name": "This is my first script",
             "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/92aa62bf-c791-4651-90a5-70219a359e87.ps1"
         },
         {
-            "Name": "This Script has not GUID",
-            "Description": "Test if see if a New-Guid is created",
+            "Name": "This Script has no Guid",
             "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/fae0de5f-f3aa-4104-84e1-f9f1e5e24a8d.ps1"
+        },
+        {
+            "Name": "This Script has no name",
+            "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/This script has no name.ps1"
         }
     ]
 }
