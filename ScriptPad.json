@@ -20,6 +20,12 @@
         },
         {
             "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/This script has no name.ps1"
+        },
+        {
+            "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/This script does not exist.ps1"
+        },
+        {
+            "Uri": "https://raw.githubusercontent.com/OSDeploy/MyScriptPad/main/Scripts/This script does exist.ps1"
         }
     ]
 }
